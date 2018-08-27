@@ -15,7 +15,7 @@ $ npm start
  ## Application UI
 
 ### Homepage
-![Alt text](./assets/homepage.png "Home" )
+![Alt text](src/assets/homepage.png "Home" )
 
 ### Result
 ![Alt text](/images/color-palette.PNG "Color Palette
