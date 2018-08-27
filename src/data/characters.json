@@ -1,0 +1,2035 @@
+[  
+     
+    {  
+       "id":4,
+       "name":"Abo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2132023-403px_abosgahfr.png",
+       "strength":790,
+       "speed":752,
+       "description":"A member of Freeza's Planet Trade Organization, Abo and his brother Kado were ranked with the Ginyu Force and Cooler's Armored Squadron. They have continued to plague the universe after Freeza's death.",
+       "overall":1542,
+       "status":"No"
+    },
+    {  
+       "id":5,
+       "name":"Abra",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493816-nekomajinvabra2%28dbhvm%29.jpg",
+       "strength":717,
+       "speed":648,
+       "description":"A Neko Majin owned by the human turned majin Kabra, he helps his friend/owner as one of the Dragon ball heroes.",
+       "overall":1365,
+       "status":"No"
+    },
+    {  
+       "id":6,
+       "name":"Ace",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5504440-dragon-ball-xenoverse-0821-07.jpg",
+       "strength":782,
+       "speed":738,
+       "description":"The hero of Tokitoki City and an excellent Time Patroller. Ace is the partner of Trunks and a foe to both Towards and Mira.",
+       "overall":1520,
+       "status":"No"
+    },
+    {  
+       "id":7,
+       "name":"Ackman",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5494876-ackmanportrait.png",
+       "strength":730,
+       "speed":772,
+       "description":"A demon who kills people to steal their soul to empower the demon king, Ackman duels with an incompetent cherub angel named Tenshi.",
+       "overall":1502,
+       "status":"No"
+    },
+  
+    {  
+       "id":9,
+       "name":"Akane Kimidori",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1238795-akane.jpg",
+       "strength":705,
+       "speed":786,
+       "description":"Arale's best friend and classmate. She is a typical bad girl and often starts mischief.",
+       "overall":1491,
+       "status":"No"
+    },
+    {  
+       "id":10,
+       "name":"Alien Announcer",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5318098-alien+announcer.jpg",
+       "strength":596,
+       "speed":673,
+       "description":"Respected referee who hosted the Universe 6 vs Universe 7 martial arts tournament",
+       "overall":1269,
+       "status":"No"
+    },
+    {  
+       "id":11,
+       "name":"Android 13",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5816396-0645226737-5291708-9128740691-latest",
+       "strength":652,
+       "speed":759,
+       "description":"An android finished by Dr. Gero's computer. He is the 13th android created by Dr Gero.",
+       "overall":1411,
+       "status":"No"
+    },
+    {  
+       "id":12,
+       "name":"Android 14",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821942-a_14.jpg",
+       "strength":684,
+       "speed":543,
+       "description":"An android finished by Dr. Gero's computer.",
+       "overall":1227,
+       "status":"No"
+    },
+    {  
+       "id":13,
+       "name":"Android 15",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821946-android15sa13.png",
+       "strength":714,
+       "speed":598,
+       "description":"An android finished by Dr. Gero's computer.",
+       "overall":1312,
+       "status":"No"
+    },
+    {  
+       "id":14,
+       "name":"Android 16",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/1669360-10.png",
+       "strength":785,
+       "speed":623,
+       "description":"Android 16 is a prototype android built by Dr.Gero to destroy Goku. Unlike the other androids build by Dr.Gero android 16 is peaceful by nature.",
+       "overall":1408,
+       "status":"No"
+    },
+    {  
+       "id":15,
+       "name":"Android 17",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/790748-main.jpg",
+       "strength":692,
+       "speed":671,
+       "description":"Android #17 was a creation of Dr. Gero in his quest to destroy Goku. He is Android #18's twin brother.\nAfter the events of the Cell Game he spent his life traveling around the world.",
+       "overall":1363,
+       "status":"No"
+    },
+    {  
+       "id":16,
+       "name":"Android 18",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/790747-main.jpg",
+       "strength":612,
+       "speed":729,
+       "description":"Android #18 was a cybernetically enhanced by Dr. Gero to aid in his quest to destroy Goku. After the Cell Games she joined the Z-Fighters and married Krillin. She has a daughter named Marron.",
+       "overall":1341,
+       "status":"No"
+    },
+    {  
+       "id":17,
+       "name":"Android 19",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735895-0387040845-latest",
+       "strength":657,
+       "speed":641,
+       "description":"Android #19 (Jinz\u014d'ningen #19, Cyborg #19) is a fictional character from the manga Dragon Ball and from the anime TV Series based on the second half of Dragon Ball, Dragon Ball Z.",
+       "overall":1298,
+       "status":"No"
+    },
+    {  
+       "id":18,
+       "name":"Android 20",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/6342/153052-167696-android-20.jpg",
+       "strength":689,
+       "speed":800,
+       "description":"Doctor Gero (Android #20) is a fictional character from the manga Dragon Ball/Dragon Ball Z and the animes Dragon Ball Z/Dragon Ball GT.",
+       "overall":1489,
+       "status":"No"
+    },
+    {  
+       "id":19,
+       "name":"Android 8",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2136133-763px_angryandroid8_ptp_.png",
+       "strength":577,
+       "speed":527,
+       "description":"Android 8 is the first android seen in the series, and the eighth in the series of androids built by Dr. Gero. He resembles the monster in Frankenstein.",
+       "overall":1104,
+       "status":"No"
+    },
+    {  
+       "id":20,
+       "name":"Aoi Kimidori",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1238775-aoi.jpg",
+       "strength":766,
+       "speed":641,
+       "description":"The older sister of Akane and owner of Penguin Village's cafe the Coffee Pot. She is very nice and polite which is the opposite of her sister.",
+       "overall":1407,
+       "status":"No"
+    },
+    {  
+       "id":21,
+       "name":"Assistant Black",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/786172-adjutantblack.jpg",
+       "strength":709,
+       "speed":595,
+       "description":"Black isn't given much of a role in the Dragon Ball series. Soft-spoken and quick-witted, Black carries out Commander Red's orders and informs Red of the current situations with the remaining Red Ribbon officers.",
+       "overall":1304,
+       "status":"No"
+    },
+    {  
+       "id":22,
+       "name":"Babidi",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/915029-untitled_2.png",
+       "strength":505,
+       "speed":515,
+       "description":"Babidi was determined to resurrect Majin Buu so that he could continue his father's work, conquering the universe, and thus make him proud. Babidi took over the minds of Dabura, Pui Pui, and Yakon.",
+       "overall":1020,
+       "status":"No"
+    },
+    {  
+       "id":23,
+       "name":"Bacterian",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732521-9356667831-bacte.png",
+       "strength":731,
+       "speed":709,
+       "description":"Bacterian is a vagabond who has never once washed himself or brushed his teeth during his life. He enters the 21st World Martial Arts Tournament, possibly in hopes of emerging victorious and using the reward to live a higher-expense lifestyle.",
+       "overall":1440,
+       "status":"No"
+    },
+    {  
+       "id":24,
+       "name":"Bardock",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5217172-bardock_planeta_vegeta_by_bardocksonic-d84sds7.jpg",
+       "strength":562,
+       "speed":564,
+       "description":"Low-class Saiyan warrior who worked under the space tyrant Frieza. He is the father of Goku and Raditz. He was thought to be killed by Frieza with the rest of his species, but he was sent back in time due to the strange powers that he got from an alien that he killed. He is considered to be the original Super Saiyan of legend that Vegeta spoke of in the the Namek Saga. He is also the grandfather of Gohan and Goten. He is the lover of Gine, the mother of Kakarot and Raditz.",
+       "overall":1126,
+       "status":"No"
+    },
+    {  
+       "id":25,
+       "name":"Basaku",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493817-berserker%28dbh%29.jpg",
+       "strength":583,
+       "speed":775,
+       "description":"The saiyan berserker who used the technology of Capsule Corporation to become a saiyan. Basaku is a friend of Beat and rival of Kagyu the Namekian.",
+       "overall":1358,
+       "status":"No"
+    },
+    {  
+       "id":26,
+       "name":"Beat",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5069341-beat+-+dragon+ball+heroes.jpg",
+       "strength":705,
+       "speed":620,
+       "description":"The \"Saiyan Hero,\" Beat is the main character in the Dragon Ball Heroes franchise.",
+       "overall":1325,
+       "status":"No"
+    },
+    {  
+       "id":27,
+       "name":"Beelzebub",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5439999-beelzebub.jpg",
+       "strength":583,
+       "speed":577,
+       "description":"Son of the demon king Dabura.",
+       "overall":1160,
+       "status":"No"
+    },
+    {  
+       "id":28,
+       "name":"Beerus",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5352566-a3a.jpg",
+       "strength":613,
+       "speed":767,
+       "description":"Beerus is the ancient God of Destruction of the 7th Universe, tasked with maintaining universal balance through destruction. He is the brother to Champa, and a feared being throughout the universe.",
+       "overall":1380,
+       "status":"No"
+    },
+    {  
+       "id":29,
+       "name":"Black Goku",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5330990-black+goku.jpg",
+       "strength":505,
+       "speed":706,
+       "description":"A malevolent entity bearing the appearance of Earth's Hero, Goku Black appeared in the timeline of Future Trunk's with the intent of eradicating humanity in the name of \"justice\". He was revealed to be none other than Zamasu, a rogue Kai from Universe 10, who had used the Super Dragon Balls to switch bodies with Goku.",
+       "overall":1211,
+       "status":"No"
+    },
+    {  
+       "id":30,
+       "name":"Botamo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11130/111300050/5614329-winnie_the_pooh_beast_mode.png",
+       "strength":517,
+       "speed":629,
+       "description":"Combatant from Universe 6",
+       "overall":1146,
+       "status":"No"
+    },
+    {  
+       "id":31,
+       "name":"Bulma Briefs",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5119633-bulma+-+dragon+ball+super.jpg",
+       "strength":692,
+       "speed":637,
+       "description":"Bulma's family runs the Capsule Corporation. Bulma is the friend of Goku and Krillin. She is a scientist like her father. She is married to Vegeta. They have two children.",
+       "overall":1329,
+       "status":"No"
+    },
+    {  
+       "id":32,
+       "name":"Burter",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/1669328-20.png",
+       "strength":535,
+       "speed":784,
+       "description":"Burter was the speedster of the Ginyu Force, self proclaimed fastest being in the Universe next to Frieza.",
+       "overall":1319,
+       "status":"No"
+    },
+    {  
+       "id":33,
+       "name":"Buu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/5078/141684-187603-buu.jpg",
+       "strength":692,
+       "speed":613,
+       "description":"After the evil separated from Majin Buu, the good Buu remained. He would stay a great friend to Hercule and an ally to the Z-Fighters.",
+       "overall":1305,
+       "status":"No"
+    },
+    {  
+       "id":34,
+       "name":"Buyon",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/5078/1333939-buyon.jpg",
+       "strength":723,
+       "speed":730,
+       "description":"Buyon is the hidden, blubbery monster of Muscle Tower. Buyon resides on the fifth floor of the tower, which is only accessible by falling through the trap door on sixth level, where General White resides with the imprisoned major of the nearby Jingle Village.",
+       "overall":1453,
+       "status":"No"
+    },
+    {  
+       "id":35,
+       "name":"Cabba",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11130/111300050/5614338-kyabe.png",
+       "strength":693,
+       "speed":684,
+       "description":"A Saiyan from Universe 6 who is a member of the Sadala Defense Forces. He greatly idolises Vegeta as his mentor.",
+       "overall":1377,
+       "status":"No"
+    },
+    {  
+       "id":36,
+       "name":"Captain Ginyu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/607/80596-162726-captain-ginyu.jpg",
+       "strength":627,
+       "speed":791,
+       "description":"Leader of the Ginyu Force and strongest henchman of Frieza",
+       "overall":1418,
+       "status":"No"
+    },
+    {  
+       "id":37,
+       "name":"Captain Yellow",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/786168-captainyellow.jpg",
+       "strength":765,
+       "speed":759,
+       "description":"Captain Yellow is seen briefly in the manga and anime. He goes around trying to find the Dragon Balls for General Copper. After he terrorizes a village in the land of Korin with a group of his troops, Goku punches him out of his plane while in midair, killing him.",
+       "overall":1524,
+       "status":"No"
+    },
+    {  
+       "id":38,
+       "name":"Caulifla",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6073407-caulifla+ssj.jpg",
+       "strength":565,
+       "speed":603,
+       "description":"A young Saiyan from Universe 6 who leads a gang of punks, she is the younger sister of Renso, a former captain of the Salada defense force. She joins Team Universe 6 as a member.",
+       "overall":1168,
+       "status":"No"
+    },
+    {  
+       "id":39,
+       "name":"Cell",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/6342/151003-163934-cell.jpg",
+       "strength":603,
+       "speed":537,
+       "description":"Cell is the main villain of the Android's Saga in Dragon Ball. An artificial being created by Dr. Gero, Cell's objective is to become the perfect-ultimate fighter and obliterate all life in the Universe.",
+       "overall":1140,
+       "status":"No"
+    },
+    {  
+       "id":40,
+       "name":"Champa",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5129198-champa_3_by_saodvd-d9vn78o.png",
+       "strength":686,
+       "speed":501,
+       "description":"Champa is a Ancient God Of Destruction who is tasked with maintaining the balance within the 6th universe. Champa is also the twin brother of Beerus.",
+       "overall":1187,
+       "status":"No"
+    },
+    {  
+       "id":41,
+       "name":"Chao-Zu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732783-5711857271-latest",
+       "strength":648,
+       "speed":573,
+       "description":"Chaozu is a character from the manga/anime Dragon Ball. He is best friends with fellow fighter Tien. He is small but very strong fighter and phychic.",
+       "overall":1221,
+       "status":"No"
+    },
+    {  
+       "id":42,
+       "name":"Chi Chi",
+       "c_image":"https://static.comicvine.com/uploads/square_small/2/22757/412220-ChiChiTalking2.jpg",
+       "strength":616,
+       "speed":595,
+       "description":"Chi-Chi is the daughter of the Ox-King who later marries Goku and becomes the loving mother of Gohan and Goten. Also the grandmother of Pan.",
+       "overall":1211,
+       "status":"No"
+    },
+    {  
+       "id":43,
+       "name":"Chilled",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2133838-830px_deathrazor1.png",
+       "strength":559,
+       "speed":711,
+       "description":"An ancestor to Freeza, King Cold and Cooler. Chilled was a space Pirate who attacked Planet Plant with the intent on capturing it. He was defeated by Bardock and would pass his fear of Super Saiyans through his family",
+       "overall":1270,
+       "status":"No"
+    },
+    {  
+       "id":44,
+       "name":"Colonel Silver",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732571-8270779408-colon.jpg",
+       "strength":748,
+       "speed":606,
+       "description":"Colonel Silver is the first of the high-ranking Red Ribbon Army officers Goku fights, and thus is overwhelmed and unprepared.\nHe is shown to be a talented, powerful fighter with a love of weapons, and excellent in marksmanship as well.",
+       "overall":1354,
+       "status":"No"
+    },
+    {  
+       "id":45,
+       "name":"Commander Red",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/786179-red0428182tc.jpg",
+       "strength":703,
+       "speed":583,
+       "description":"Commander Red is the leader of the Red Ribbon Army. While he puts up the front that he plans to take over the world, his true plan was to use the Dragon Balls to wish to become tall.",
+       "overall":1286,
+       "status":"No"
+    },
+    {  
+       "id":46,
+       "name":"Conton City Hero",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/5796761-dragon-ball-xenoverse-2-manga-02-833x571.jpg",
+       "strength":592,
+       "speed":770,
+       "description":"The hero from, Xenoverse 2, A saiyan who eventually rises to the level of Trunks and Ace in the Time Patrol.",
+       "overall":1362,
+       "status":"No"
+    },
+    {  
+       "id":47,
+       "name":"Cooler",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/4815416-cooler_bss_by_seiya_dbz_fan-d4xdstg.png",
+       "strength":516,
+       "speed":629,
+       "description":"Cooler is the older brother of Frieza and a much more powerful combatant. He sought revenge against Goku for dishonoring his family even though Cooler expressed interest in killing Frieza himself.",
+       "overall":1145,
+       "status":"No"
+    },
+    {  
+       "id":48,
+       "name":"Cui",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/2178926-cui.jpg",
+       "strength":764,
+       "speed":730,
+       "description":"One of Frieza's henchmen from the Planet Trade Organization",
+       "overall":1494,
+       "status":"No"
+    },
+    {  
+       "id":49,
+       "name":"Dabura",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100990/2439820-daburaevilsmile.png",
+       "strength":672,
+       "speed":778,
+       "description":"Dabura is the king of the Demon Realm, being placed under Babidi's control by a spell. Dabura has the special power of turning his enemies to stone, simply by spitting on them.",
+       "overall":1450,
+       "status":"No"
+    },
+    {  
+       "id":50,
+       "name":"Demigra",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735957-2314198067-latest",
+       "strength":562,
+       "speed":697,
+       "description":"A former wizard of the heavenly realm, Demigra attempted to rule the time vault and become a demon god, but was sealed away in the Crack of Time.",
+       "overall":1259,
+       "status":"No"
+    },
+    {  
+       "id":51,
+       "name":"Dende",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/11433/599606-dende.jpg",
+       "strength":695,
+       "speed":637,
+       "description":"Dende is was lone survivor of his village on planet Namek. He is now the Guardian of Earth after Kami fuses with Piccolo.",
+       "overall":1332,
+       "status":"No"
+    },
+    {  
+       "id":52,
+       "name":"Dodoria",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/951106-dodoria_2.jpg",
+       "strength":560,
+       "speed":504,
+       "description":"Dodoria is one of Freezas high-ranking henchman and Zarbon battle partner.",
+       "overall":1064,
+       "status":"No"
+    },
+    {  
+       "id":53,
+       "name":"Doore",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821919-doore_angry.jpg",
+       "strength":558,
+       "speed":675,
+       "description":"A member of Coolers Armored Squadron.",
+       "overall":1233,
+       "status":"No"
+    },
+    {  
+       "id":54,
+       "name":"Dr. Briefs",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/786130-folge124_02.gif",
+       "strength":635,
+       "speed":735,
+       "description":"The father of Bulma, Dr. Briefs is an elderly, brilliant and eccentric scientist. He is the founder and president of Capsule Corporation and is the grandfather of Trunks.",
+       "overall":1370,
+       "status":"No"
+    },
+    {  
+       "id":55,
+       "name":"Dr. Mashirito",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5568796-mashirito.png",
+       "strength":646,
+       "speed":774,
+       "description":"The main villain of the Dr. Slump manga, Dr. Mashirito often creates androids called caramel men to aid himself. He was created as a comical representation of Toriyama's editor Kazuhiko Torishima.",
+       "overall":1420,
+       "status":"No"
+    },
+    {  
+       "id":56,
+       "name":"Dyspo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/6044928-dyspoo.png",
+       "strength":566,
+       "speed":578,
+       "description":"A member of the Pride Troopers and seemingly the third strongest member, Dyspo relies on speed to counter enemy attacks.",
+       "overall":1144,
+       "status":"No"
+    },
+    {  
+       "id":57,
+       "name":"East Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11113/111131954/3381274-71.png",
+       "strength":507,
+       "speed":591,
+       "description":"One of the 4 Lower Kais of the Universe. She loves racing, and hates losing. She trusts her pupils are on the honor System.",
+       "overall":1098,
+       "status":"No"
+    },
+    {  
+       "id":58,
+       "name":"Erito",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493818-saiyan_elite_%28dbh%29.jpg",
+       "strength":663,
+       "speed":591,
+       "description":"A human who used the technology of Capsule Corporation to become a saiyan elite, Erito is a friend/rival to both Beat and Basaku.",
+       "overall":1254,
+       "status":"No"
+    },
+    {  
+       "id":59,
+       "name":"Fasha",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2822116-fashanv.png",
+       "strength":720,
+       "speed":696,
+       "description":"A low class Saiyan warrior and a member of Bardock's crew.",
+       "overall":1416,
+       "status":"No"
+    },
+    {  
+       "id":60,
+       "name":"Fen",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493822-fen.png",
+       "strength":533,
+       "speed":703,
+       "description":"A human who used the technology of Capsule Corporation to turn herself into a Supreme Kai. Fen is one of the dragonball heroes.",
+       "overall":1236,
+       "status":"No"
+    },
+    {  
+       "id":61,
+       "name":"Forte",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5072676-forte+-+dragon+ball+heroes+victory+mission+ch+6.jpg",
+       "strength":768,
+       "speed":666,
+       "description":"The \"Female Saiyan Berserker\" of the Dragon Ball Heroes franchise.",
+       "overall":1434,
+       "status":"No"
+    },
+    {  
+       "id":62,
+       "name":"Fortuneteller Baba",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/790469-brujaif1.jpg",
+       "strength":717,
+       "speed":503,
+       "description":"Roshi's sister. She charges 10 million for a fortune. Baba has connections to the other world.",
+       "overall":1220,
+       "status":"No"
+    },
+    {  
+       "id":63,
+       "name":"Frieza",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5816339-3659887838-friez.png",
+       "strength":778,
+       "speed":563,
+       "description":"Frieza was an alien tyrant from the Dragon Ball Universe, once the ruler of the North Galaxy and responsible for the destruction of the Saiyan homeworld, Vegeta. He was shown to be very powerful and feared throughout the universe. He was greedy and only wanted to rule and live forever. Since his return as Golden Frieza, he has become one of the most powerful beings in the universe.",
+       "overall":1341,
+       "status":"No"
+    },
+    {  
+       "id":64,
+       "name":"Frost",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11130/111300050/5613333-frostfinalform.jpg",
+       "strength":622,
+       "speed":760,
+       "description":"Frost is a space pirate who secretly starts wars and ends them himself, giving the public the opinion that he is a great hero.",
+       "overall":1382,
+       "status":"No"
+    },
+    {  
+       "id":65,
+       "name":"Froze",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493807-friezasracehero2ndstyle%28umart%29.jpg",
+       "strength":557,
+       "speed":797,
+       "description":"A human who becomes one of Frieza's race through Capsule Corp technology, Froze is a chief rival to beat in Dragon Ball Heroes.",
+       "overall":1354,
+       "status":"No"
+    },
+    {  
+       "id":66,
+       "name":"Future Trunks",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5248678-mirai_trunks_dbs_v2_by_saodvd-da4yfon.png",
+       "strength":727,
+       "speed":544,
+       "description":"Trunks is the half-Saiyan, half-Human hybrid son of Vegeta and Bulma. Two versions of him appeared in Dragon Ball Z: as a warrior from an alternate apocalyptic future and as a \"normal\" kid in the main timeline.",
+       "overall":1271,
+       "status":"No"
+    },
+    {  
+       "id":67,
+       "name":"Fuwa",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5826532-5880693112-latest",
+       "strength":503,
+       "speed":783,
+       "description":"Lord of Lords in the Sixth Universe.",
+       "overall":1286,
+       "status":"No"
+    },
+    {  
+       "id":68,
+       "name":"Galactic King",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4959678-galactic+king+-+dragon+ball+super+ch+7.jpg",
+       "strength":755,
+       "speed":525,
+       "description":"King of the Galaxy and head of the Galactic Patrolmen",
+       "overall":1280,
+       "status":"No"
+    },
+    {  
+       "id":69,
+       "name":"Garlic Jr.",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2819970-garlicjuniordbzmovie_05.png",
+       "strength":540,
+       "speed":590,
+       "description":"Garlic Jr. is a long time enemy of Kami since his father Garlic was defeated and killed by Kami when they both were vying for the position of Earth's guardian.",
+       "overall":1130,
+       "status":"No"
+    },
+    {  
+       "id":70,
+       "name":"Gatchan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1238515-gatchans.jpg",
+       "strength":504,
+       "speed":798,
+       "description":"Gatchan is an angel that hatched from an egg Senbei &amp; Arale found while time traveling to the Prehistoric ages. Later on it turns into twins.",
+       "overall":1302,
+       "status":"No"
+    },
+    {  
+       "id":71,
+       "name":"General Blue",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732600-6511707539-11560.png",
+       "strength":619,
+       "speed":594,
+       "description":"A general of the red ribbon army he was defeated by tao.",
+       "overall":1213,
+       "status":"No"
+    },
+    {  
+       "id":72,
+       "name":"General White",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732576-5719017436-Gener.jpg",
+       "strength":799,
+       "speed":567,
+       "description":"General White is the questionably sane, often over-reactive Russian commander of Muscle Tower, the Red Ribbon Army's northern fortress. The oldest of the known officers, White, while not a gifted strategist, is observant and draws conclusions with surprising speed, and is the only officer to have ever found out Goku's primary weakness; his tail.",
+       "overall":1366,
+       "status":"No"
+    },
+    {  
+       "id":73,
+       "name":"Genome",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493826-super_class_genome_full.png",
+       "strength":774,
+       "speed":615,
+       "description":"A human who uses the technology of Capsule Corporation to become  bio-android similar to Cell. Genome is a member of the Dragon Ball Heroes.",
+       "overall":1389,
+       "status":"No"
+    },
+    {  
+       "id":74,
+       "name":"Gibachi",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5439924-dragongibachi.jpg",
+       "strength":608,
+       "speed":701,
+       "description":"A crime Lord who drank the blood of a young dragon in order to gain power.",
+       "overall":1309,
+       "status":"No"
+    },
+    {  
+       "id":75,
+       "name":"Ginger",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821404-ginger4.png",
+       "strength":742,
+       "speed":793,
+       "description":"A henchmen to Garlic Jr.",
+       "overall":1535,
+       "status":"No"
+    },
+    {  
+       "id":76,
+       "name":"Giran",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2125251-giran_by_dragonballzgtfighter.png",
+       "strength":638,
+       "speed":770,
+       "description":"A participant of the 21st Martial Arts Tournament, Giran acted like a bully and thug. He was defeated by Goku during the tournament.",
+       "overall":1408,
+       "status":"No"
+    },
+    {  
+       "id":77,
+       "name":"Gohan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/8/80111/3365648-gohan_by_feeh05051995-d5a712v.png",
+       "strength":586,
+       "speed":523,
+       "description":"The first son of Goku and Chichi and a half-Human, half-Saiyan, Son Gohan held the potential for enormous power. Growing up a scholar, not a warrior like his father, he nevertheless has answered the call to protect Earth multiple times. He is the most powerful non fused warrior in the Dragon Ball Z universe by the end of Dragon Ball Z series. He is the father of Pan and husband to Videl. He is Goten's older brother and Grandson to both Ox King and Bardock, respectively. (Goku and Chichi's fathers)",
+       "overall":1109,
+       "status":"No"
+    },
+    {  
+       "id":78,
+       "name":"Goku",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/790730-konachan.com___41666_dragonball_son_goku.png",
+       "strength":786,
+       "speed":504,
+       "description":"The main protagonist and hero of the Dragon Ball manga series and animated television series created by Akira Toriyama. He is one of the survivors of the extinct Saiyan race.\nHe was sent as a baby to planet Earth in order to destroy it. When he arrived he was a violent kid, due to his warrior nature. However, he suffered an accident which made him lose his memory. He became a kind and calm kid.\nTrained, he became a talented martial artist and world's greatest defender.",
+       "overall":1290,
+       "status":"No"
+    },
+    {  
+       "id":79,
+       "name":"Goten",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735888-7923614686-816f7.jpg",
+       "strength":524,
+       "speed":741,
+       "description":"Son Goten (\u5b6b\u609f\u5929, Son Goten), or simply Goten in the FUNimation dub, is a fictional character in the manga DragonBall and the anime DragonBall Z and DragonBall GT. Son Goten is the second son of Son Goku and Chi Chi and is Son Gohan's little brother. He is also uncle to Pan. He became a Super Saiyan at the young age of 7, making him the youngest Super Saiyan ever.",
+       "overall":1265,
+       "status":"No"
+    },
+    {  
+       "id":80,
+       "name":"Gowasu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11128/111288213/5441952-0138502139-Leopa.jpg",
+       "strength":666,
+       "speed":763,
+       "description":"The Kaioshin of Universe 10, Gowasu is a peaceful person who likes to observe mortals and drink tea. He has taken Zamasu as his apprentice and sees great potential within Zamasu, but wishes to change his heart. He also frequently watches GodTube and is interested in Son Goku. He is the only Kaioshin in charge of the time rings.",
+       "overall":1429,
+       "status":"No"
+    },
+    {  
+       "id":81,
+       "name":"Grand Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5440697-grandkaibell.jpg",
+       "strength":750,
+       "speed":592,
+       "description":"The grand kai, he rules over the 4 lesser kais and reports to the Supreme Kai.",
+       "overall":1342,
+       "status":"No"
+    },
+    {  
+       "id":82,
+       "name":"Grand Priest",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5596104-daishinkan.jpg",
+       "strength":541,
+       "speed":790,
+       "description":"Daishinkan lives in Zeno's palace and is said to be in the top 5 fighters in the multiverse He's the father of Whis and Vados.",
+       "overall":1331,
+       "status":"No"
+    },
+    {  
+       "id":83,
+       "name":"Grand Supreme Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5730751-1110184566-latest",
+       "strength":683,
+       "speed":587,
+       "description":"The Grand Supreme Kai was the highest of all Supreme Kais and ruled over the entirety of Universe Seven.",
+       "overall":1270,
+       "status":"No"
+    },
+    {  
+       "id":84,
+       "name":"Grandpa Gohan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732719-6027902525-54106.png",
+       "strength":594,
+       "speed":784,
+       "description":"Grandpa Gohan was the man who found and raised Goku as a child. He taught Goku Martal arts that he learned form Master Roshi, until Goku turns into the great ape.",
+       "overall":1378,
+       "status":"No"
+    },
+    {  
+       "id":85,
+       "name":"Gravy",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/5784197-demon_good_gravy.png",
+       "strength":766,
+       "speed":627,
+       "description":"Once a sorcerer alongside Demigra, Gravy later became a demon god with  particular affinity for lightning magic.",
+       "overall":1393,
+       "status":"No"
+    },
+    {  
+       "id":86,
+       "name":"Guldo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/607/80597-131822-gurd.jpg",
+       "strength":587,
+       "speed":660,
+       "description":"The weakest member of the Ginyu Force and the first who gest killed in battle.",
+       "overall":1247,
+       "status":"No"
+    },
+    {  
+       "id":87,
+       "name":"Haya",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5439916-haya%28kch1%29.jpg",
+       "strength":525,
+       "speed":625,
+       "description":"A professional thief looking to recover a dragon egg for a reward.",
+       "overall":1150,
+       "status":"No"
+    },
+    {  
+       "id":88,
+       "name":"Hell Fighter 17",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5789974-hell+fighter+17.jpg",
+       "strength":670,
+       "speed":565,
+       "description":"A Machine Mutant version of Android 17 created by Dr. Gero and Dr. Myuu in Hell.",
+       "overall":1235,
+       "status":"No"
+    },
+    {  
+       "id":89,
+       "name":"Hercule",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/1065238-untitled_1.png",
+       "strength":612,
+       "speed":770,
+       "description":"Mr. Satan is the World Martial Arts Champion. His daughter is videl and by extension, his granddaughter is Pan.",
+       "overall":1382,
+       "status":"No"
+    },
+    {  
+       "id":90,
+       "name":"Hit",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5153887-hit_profile.jpg",
+       "strength":664,
+       "speed":688,
+       "description":"Combatant from Universe 6. Hit has the ability to time skip. He is the greatest and most deadliest assassin in Universe 6 and is also a cold-blooded hitman.",
+       "overall":1352,
+       "status":"No"
+    },
+    {  
+       "id":91,
+       "name":"Isaza",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5439920-isazaincity%28kch3%29.jpg",
+       "strength":566,
+       "speed":529,
+       "description":"A world famous assassin and member of the kawa tribe",
+       "overall":1095,
+       "status":"No"
+    },
+    {  
+       "id":92,
+       "name":"Jaco",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67663/4313120-jaco.jpg",
+       "strength":773,
+       "speed":636,
+       "description":"Jaco is an elite police officer in the Galactic Patrol that came to Earth to stop a galactic criminal when he crash landed on Earth.",
+       "overall":1409,
+       "status":"No"
+    },
+    {  
+       "id":93,
+       "name":"Jajan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2138189-288px_jajan.png",
+       "strength":515,
+       "speed":771,
+       "description":"A demon who was sealed inside an egg by Neko Majin. After being released by two travelers, Jajan was once again defeated by Neko Majin using his Nekohameha technique.",
+       "overall":1286,
+       "status":"No"
+    },
+    {  
+       "id":94,
+       "name":"Jeice",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/996610-jeice.jpg",
+       "strength":717,
+       "speed":641,
+       "description":"A member of the Ginyu Force who typically teams up with Burter during battles.",
+       "overall":1358,
+       "status":"No"
+    },
+    {  
+       "id":95,
+       "name":"Jiren",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/6044923-jiren_101.jpg",
+       "strength":772,
+       "speed":725,
+       "description":"The strongest member of Team Universe 11 and the Pride Troopers, Jiren is a favorite to win the Tournament of Power.",
+       "overall":1497,
+       "status":"No"
+    },
+    {  
+       "id":96,
+       "name":"Kabra",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493847-kabra.png",
+       "strength":794,
+       "speed":627,
+       "description":"A human who used the technology of Capsule Corporation to become a majin, Kabra is one of the Dragon Ball heroes.",
+       "overall":1421,
+       "status":"No"
+    },
+    {  
+       "id":97,
+       "name":"Kado",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2132032-349px_kadosgahfr.png",
+       "strength":536,
+       "speed":677,
+       "description":"A member of Freeza's Planet Trade Organization, Kado and his brother Ado were ranked with the Ginyu Force and Cooler's Armored Squadron. They have continued to plague the universe after Freeza's death.",
+       "overall":1213,
+       "status":"No"
+    },
+    {  
+       "id":98,
+       "name":"Kagyu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493858-super_namek_kagyu.png",
+       "strength":744,
+       "speed":512,
+       "description":"The Namkeian berserker, Kagyu is one of the Dragon Ball heroes.",
+       "overall":1256,
+       "status":"No"
+    },
+    {  
+       "id":99,
+       "name":"Kahseral",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6158923-kahseral.jpg",
+       "strength":722,
+       "speed":746,
+       "description":"General of the Pride Troopers",
+       "overall":1468,
+       "status":"No"
+    },
+    {  
+       "id":100,
+       "name":"Kajika",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5439908-kajikacoverimage.gif",
+       "strength":574,
+       "speed":636,
+       "description":"A boy of the kawa tribe who was transformed into a half fox for his evil deeds. He must save 1000 lives while not killing to return to his human body.",
+       "overall":1210,
+       "status":"No"
+    },
+    {  
+       "id":101,
+       "name":"Kale",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6159090-kale.jpg",
+       "strength":668,
+       "speed":664,
+       "description":"A Saiyan from Universe 6 who is a member of Caulifla's gang of punks, she serves as Caulifla's protege. Kale joins Team Universe 6.",
+       "overall":1332,
+       "status":"No"
+    },
+    {  
+       "id":102,
+       "name":"Kami",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/5313732-dbfcm_359.jpg",
+       "strength":769,
+       "speed":600,
+       "description":"Kami (meaning God) is the Guardian of the Earth.",
+       "overall":1369,
+       "status":"No"
+    },
+    {  
+       "id":103,
+       "name":"Kibito",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5736020-3057636165-latest",
+       "strength":605,
+       "speed":635,
+       "description":"The protector and bodyguard of East Kaioshin or Supreme Kai.",
+       "overall":1240,
+       "status":"No"
+    },
+    {  
+       "id":104,
+       "name":"Kibito Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/2197867-kibito_kai.png",
+       "strength":779,
+       "speed":577,
+       "description":"The Supreme Kai after he fused with Kibito",
+       "overall":1356,
+       "status":"No"
+    },
+    {  
+       "id":105,
+       "name":"King Cold",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/996671-king_cold.jpg",
+       "strength":521,
+       "speed":712,
+       "description":"King Cold is a galactic tyrant who is father to Cooler and Frieza. Unlike his sons, he seemed to care for others, but only his family.",
+       "overall":1233,
+       "status":"No"
+    },
+    {  
+       "id":106,
+       "name":"King Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/996676-king_kai.jpg",
+       "strength":791,
+       "speed":592,
+       "description":"King Kai is one of four guardians that protect the universe. The universe is separated into the north, south, east and west galaxies. King Kai is in charge of watching over the north galaxy. He taught Goku how to use the Kaio-ken technique as well as the Spirit Bomb.",
+       "overall":1383,
+       "status":"No"
+    },
+    {  
+       "id":107,
+       "name":"King Nikochan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1240438-kingnikochan.jpg",
+       "strength":661,
+       "speed":589,
+       "description":"King of the Niko race. He is also very dumb and doesn't understand earth customs.",
+       "overall":1250,
+       "status":"No"
+    },
+    {  
+       "id":108,
+       "name":"King Nikochan's Assistant",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1240439-nikochan2.jpg",
+       "strength":683,
+       "speed":504,
+       "description":"The faithful assistant of King Nikochan. He is a lot smarter and tries to stop King Nikochan from doing stupid things.",
+       "overall":1187,
+       "status":"No"
+    },
+    {  
+       "id":109,
+       "name":"King Piccolo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/814454-db_piccolo_daimao_02.jpg",
+       "strength":724,
+       "speed":717,
+       "description":"Piccolo Daimao is a character from the anime and manga series Dragon Ball, and appears from time to time in a couple flashbacks of Dragon Ball Z. He is introduced as a Mazoku in the story who once precipitated the Earth into utter chaos and pandemonium, giving birth to a brood of animal-like Namekians from within himself and converting a peaceful planet into a living hell.",
+       "overall":1441,
+       "status":"No"
+    },
+    {  
+       "id":110,
+       "name":"Korin",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732631-8726078316-latest",
+       "strength":793,
+       "speed":594,
+       "description":"Korin is an immortal cat that lives at the top of Korin Tower below Kami's Lookout. Korin trained Master Roshi as well as Goku after his defeat of Mercenary Tao. He continues to help Goku and his friends throughout the series by growing Senzu beans.",
+       "overall":1387,
+       "status":"No"
+    },
+    {  
+       "id":111,
+       "name":"Krillin",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732493-2944624772-4014b.png",
+       "strength":500,
+       "speed":575,
+       "description":"Krillin is the most powerful human in the Dragonball Universe. Krillin is short, bald and has six dots tattooed on his forehead. He usually wears the  the turtle hermit school name on his uniform. Krillin is married and has a daughter. After the cell games, Krillin eventually grew hair.",
+       "overall":1075,
+       "status":"No"
+    },
+    {  
+       "id":112,
+       "name":"Kunshi",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6158926-kunshi.jpg",
+       "strength":518,
+       "speed":663,
+       "description":"Member of the Pride Troopers",
+       "overall":1181,
+       "status":"No"
+    },
+    {  
+       "id":113,
+       "name":"Kurikinton Soramame",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1239889-kurikinton.gif",
+       "strength":710,
+       "speed":797,
+       "description":"He is the father of Taro and Peasuke. Also the owner of the Barber Shop.",
+       "overall":1507,
+       "status":"No"
+    },
+    {  
+       "id":114,
+       "name":"Kuriza",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2138190-kuriza_info.jpg",
+       "strength":768,
+       "speed":514,
+       "description":"The son of Freeza, who appears in Neko Majin Z.",
+       "overall":1282,
+       "status":"No"
+    },
+    {  
+       "id":115,
+       "name":"Launch",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/790733-main.jpg",
+       "strength":603,
+       "speed":548,
+       "description":"Launch is a sweet girl, who upon sneezing experiences a personality shift causing her to become a gun toting homicidal woman",
+       "overall":1151,
+       "status":"No"
+    },
+    {  
+       "id":116,
+       "name":"Magetta",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11130/111300050/5614332-auta_magetta_profile.jpg",
+       "strength":734,
+       "speed":709,
+       "description":"Combatant from Universe 6",
+       "overall":1443,
+       "status":"No"
+    },
+    {  
+       "id":117,
+       "name":"Mai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5427389-mai+-+episode+48.jpg",
+       "strength":500,
+       "speed":616,
+       "description":"Serves emperor Pilaf who wants to take over the world.",
+       "overall":1116,
+       "status":"No"
+    },
+    {  
+       "id":118,
+       "name":"Majin Buu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/37889/1404911-266661_untitled___m____mnn.jpg",
+       "strength":549,
+       "speed":733,
+       "description":"An entity as old as the universe itself, Majin Buu has spent his time between periods of chaotic destruction and slumber. Used by Bibidi, who grew to fear the uncontrollable monster, after attacking the Supreme Kais, (absorbing two, killing one,) he was rendered docile enough to be sealed and sent to planet Earth. Years later, Bibidi's clone, Babidi unleashes the fearsome creature on the universe once again.",
+       "overall":1282,
+       "status":"No"
+    },
+    {  
+       "id":119,
+       "name":"Master Roshi",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732451-8397948238-maste.png",
+       "strength":546,
+       "speed":782,
+       "description":"The famous Master Roshi was sought out by a young Goku, and after some... Persuading... He agreed to teach the boy.",
+       "overall":1328,
+       "status":"No"
+    },
+    {  
+       "id":120,
+       "name":"Mechikabura",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5500645-super-dragon-ball-heroes-chapitre-2-page-2.jpg",
+       "strength":695,
+       "speed":730,
+       "description":"A previous ruler of the demon realm and the grandfather of Dabura and Towards.",
+       "overall":1425,
+       "status":"No"
+    },
+    {  
+       "id":121,
+       "name":"Midori Norimaki",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1238794-midori.jpg",
+       "strength":793,
+       "speed":544,
+       "description":"School Teacher in Penguin Village and love interest of Senbei. They eventually marry later on in the series.",
+       "overall":1337,
+       "status":"No"
+    },
+    {  
+       "id":122,
+       "name":"Mira",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735939-4844630633-latest",
+       "strength":796,
+       "speed":691,
+       "description":"The ultimate artificial demon warrior, Mira is Towa's husband and greatest creation. His goal is to be the strongest fighter in history.",
+       "overall":1487,
+       "status":"No"
+    },
+    {  
+       "id":123,
+       "name":"Monaka",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5209356-monaka+-+episode+42.jpg",
+       "strength":560,
+       "speed":769,
+       "description":"A powerful alien that has battled Beerus the God of Destruction in the past. At least that's what Goku thinks.",
+       "overall":1329,
+       "status":"No"
+    },
+    {  
+       "id":124,
+       "name":"Mr. Popo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67602/2157716-2525368625_1.jpg",
+       "strength":622,
+       "speed":795,
+       "description":"Mr. Popo is a character in the manga/anime Dragonball/Z. He is the caretaker of Kami's Lookout and friend to Kami, the guardian of earth.",
+       "overall":1417,
+       "status":"No"
+    },
+    {  
+       "id":125,
+       "name":"Mrs. Briefs",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/6342/1451537-37a7d9d6257918a67a599e765d50435a1269794611_full.jpg",
+       "strength":691,
+       "speed":524,
+       "description":"Bulma's mother and the wife of Dr. Briefs. She is always interested in flirting with Goku and Vegeta. She was never named even though she makes quite some appearances.",
+       "overall":1215,
+       "status":"No"
+    },
+    {  
+       "id":126,
+       "name":"Nam",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732515-4425129090-180",
+       "strength":577,
+       "speed":694,
+       "description":"Nam was a participant in the 21st World Martial Arts Tournament. Nam was there to win the money so he could buy water for his village. He lost to Goku though Master Roshi gave him large containers to bring water back.",
+       "overall":1271,
+       "status":"No"
+    },
+    {  
+       "id":127,
+       "name":"Nappa",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732895-8093261658-latest",
+       "strength":532,
+       "speed":564,
+       "description":"Nappa is a part of the saiyan race, which are from the Planet Vegeta. He's one of the last survivors of his race and works under Prince Vegeta until he is killed by him.",
+       "overall":1096,
+       "status":"No"
+    },
+    {  
+       "id":128,
+       "name":"Neiz",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821922-neizcoolersrevenge.png",
+       "strength":737,
+       "speed":552,
+       "description":"A member of Coolers Armored Squadron.",
+       "overall":1289,
+       "status":"No"
+    },
+    {  
+       "id":129,
+       "name":"Neko Majin",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/783876-00.jpg",
+       "strength":589,
+       "speed":612,
+       "description":"Neko majin\" literally means \"Cat Genie\" in Japanese (The word \"majin\" is difficult to translate. Its meaning is more precisely conveyed as \"magical demon\"). Neko Majin Z is described as the strongest Neko Majin in existence.",
+       "overall":1201,
+       "status":"No"
+    },
+    {  
+       "id":130,
+       "name":"Nicky",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11116/111160422/4737723-5543780051-270",
+       "strength":591,
+       "speed":710,
+       "description":"A henchmen of Garlic Jr.",
+       "overall":1301,
+       "status":"No"
+    },
+    {  
+       "id":131,
+       "name":"Nico",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/1/1-male-good-large.jpg",
+       "strength":560,
+       "speed":628,
+       "description":"The Android elite and member of the Dragon Ball heroes.",
+       "overall":1188,
+       "status":"No"
+    },
+    {  
+       "id":132,
+       "name":"Nimu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493860-class-up_nimu.png",
+       "strength":609,
+       "speed":514,
+       "description":"The Android hero and member of the Dragon Ball heroes.",
+       "overall":1123,
+       "status":"No"
+    },
+    {  
+       "id":133,
+       "name":"Ninja Murasaki",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732592-4897768245-latest",
+       "strength":654,
+       "speed":529,
+       "description":"Even though he is smart, Sergeant Purple (a.k.a. Ninja Murasaki) loses to Goku after a long, drawn out, somewhat farcical fight. He uses several ninja tricks to which Goku counters in his own kooky way.",
+       "overall":1183,
+       "status":"No"
+    },
+    {  
+       "id":134,
+       "name":"Northern Supreme Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5730746-6386284454-latest",
+       "strength":707,
+       "speed":559,
+       "description":"The North Supreme Kai was the ruler of the Northern Quadrant of Universe Seven.",
+       "overall":1266,
+       "status":"No"
+    },
+    {  
+       "id":135,
+       "name":"Note",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5072710-note+-+dragon+ball+heroes+victory+mission+ch+3.jpg",
+       "strength":569,
+       "speed":743,
+       "description":"The \"Saiyan Heroine\" from the Dragon Ball Heroes franchise.",
+       "overall":1312,
+       "status":"No"
+    },
+    {  
+       "id":136,
+       "name":"Obotchaman",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1242129-obotchaman.png",
+       "strength":553,
+       "speed":574,
+       "description":"An android made by Dr. Mashirito made using the same plans as Arale but male. He ends up falling in love with her.",
+       "overall":1127,
+       "status":"No"
+    },
+    {  
+       "id":137,
+       "name":"Octopapa",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5506124-octopapas10.jpg",
+       "strength":518,
+       "speed":663,
+       "description":"A giant sentient octopus Goku encountered in the Pirates treasure cave. He wanted to eat Goku but he ended up as Goku's lunch after being fried via a kamehameha wave.",
+       "overall":1181,
+       "status":"No"
+    },
+    {  
+       "id":138,
+       "name":"Omni-King",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11128/111288213/5244164-1110103912-latest",
+       "strength":784,
+       "speed":671,
+       "description":"The Omni King governs the 12 universes of the Dragon Ball Omniverse, and is stated to be the absolute strongest character, capable of inspiring fear in all other gods.",
+       "overall":1455,
+       "status":"No"
+    },
+    {  
+       "id":139,
+       "name":"Onio",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/783879-onio.jpg",
+       "strength":730,
+       "speed":690,
+       "description":"A comic character poking fun at the previous image of Saiyans as cool, good-looking people. Onio lands on Earth for his honeymoon, and decides to kill the human race to make Earth his country house (or country planet?).",
+       "overall":1420,
+       "status":"No"
+    },
+    {  
+       "id":140,
+       "name":"Oolong",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732484-3413010382-latest",
+       "strength":629,
+       "speed":631,
+       "description":"Oolong is a shape-shifting anthropomorphic pig that uses his abilities for his own greedy desires. He later joins Bulma and Goku on their quest to find the Dragonballs.",
+       "overall":1260,
+       "status":"No"
+    },
+    {  
+       "id":141,
+       "name":"Oracle Fish",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4859877-oracle_fish_53895.jpg",
+       "strength":532,
+       "speed":726,
+       "description":"Counsel to Beerus the god of destruction",
+       "overall":1258,
+       "status":"No"
+    },
+    {  
+       "id":142,
+       "name":"Ox King",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732447-8040829718-latest",
+       "strength":665,
+       "speed":681,
+       "description":"Gyumao also known as Ox-king in english. He has a daughter named Chichi. He is the king of Fire Mountain.",
+       "overall":1346,
+       "status":"No"
+    },
+    {  
+       "id":143,
+       "name":"Pan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/915034-untitled_1.png",
+       "strength":796,
+       "speed":567,
+       "description":"Son Gohan and Videl's daughter. Able to fly and also a very strong fighter. Granddaughter to Son Goku. Niece to Son Goten. Great-Granddaughter to Bardock and Ox-king.",
+       "overall":1363,
+       "status":"No"
+    },
+    {  
+       "id":144,
+       "name":"Parzan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1242108-parzan.png",
+       "strength":534,
+       "speed":638,
+       "description":"A Tarzan based superhero from the same planet as Suppaman and Bubibinman. He is also rivals with Suppaman.",
+       "overall":1172,
+       "status":"No"
+    },
+    {  
+       "id":145,
+       "name":"Peasuke Soramame",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1248210-peasuke.jpg",
+       "strength":722,
+       "speed":677,
+       "description":"The younger brother of Taro. He wants to be like Taro when he gets older and he always wears an animal shaped hat.",
+       "overall":1399,
+       "status":"No"
+    },
+    {  
+       "id":146,
+       "name":"Piccolo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/6130/151422-10016-piccolo.jpg",
+       "strength":793,
+       "speed":703,
+       "description":"Piccolo is the son/reincarnation of the Namekian, Piccolo Daima\u014d, and was spawned to avenge his sire's death at the hands of Goku. Later on, he abandoned his ambitions to rule Earth and joined Goku and the Z-Fighters as an ally and a friend. He seems to also share a deep bond with Goku's son, Gohan, and appears to be a sort of second father too him. Piccolo has many signature moves such as the Special Beam Cannon, Hellzone Grenade, and Light Grenade.",
+       "overall":1496,
+       "status":"No"
+    },
+    {  
+       "id":147,
+       "name":"Pilaf",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732489-5303617731-emper.jpg",
+       "strength":630,
+       "speed":695,
+       "description":"A little blue guy who wants to take over the world. He is aided by Mai and Shuu.",
+       "overall":1325,
+       "status":"No"
+    },
+    {  
+       "id":148,
+       "name":"Pinich",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5492976-529f227118a1b3b0dfa84b693597c9f0.png",
+       "strength":670,
+       "speed":591,
+       "description":"A saiyan warrior and the best friend of Tekka. One of the main characters in the Dragon ball Fusions spin-off manga.",
+       "overall":1261,
+       "status":"No"
+    },
+    {  
+       "id":149,
+       "name":"Pirate Robot",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5495255-piraterobot..jpg",
+       "strength":518,
+       "speed":745,
+       "description":"A robot left behind to guard treasure, he proved to be a difficult opponent for Kid Goku.",
+       "overall":1263,
+       "status":"No"
+    },
+    {  
+       "id":150,
+       "name":"Porunga",
+       "c_image":"https://static.comicvine.com/uploads/square_small/2/25815/609393-porunga.gif",
+       "strength":517,
+       "speed":507,
+       "description":"Eternal Dragon of Namek",
+       "overall":1024,
+       "status":"No"
+    },
+    {  
+       "id":151,
+       "name":"Puar",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/5313759-dragon_ball_saga___puar_1_by_blaster85-d4w76lx.jpg",
+       "strength":794,
+       "speed":605,
+       "description":"Often soft-spoken at times, Puar serves as Yamcha's constant companion. The two were originally a pair of desert thieves, robbing travellers who would cross the area where they lived.They eventually joined up with Goku, Bulma and Oolong on a search around the world for Dragon Balls.",
+       "overall":1399,
+       "status":"No"
+    },
+    {  
+       "id":152,
+       "name":"Pui Pui",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/2196926-pui_pui.jpg",
+       "strength":583,
+       "speed":791,
+       "description":"From the planet Voon, Pui Pui is under control of the wizard Babidi",
+       "overall":1374,
+       "status":"No"
+    },
+    {  
+       "id":153,
+       "name":"Putine",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/5784178-dgp.jpg",
+       "strength":601,
+       "speed":531,
+       "description":"A sorceress originally in league with Demigra, Putine later became a demon god with mastery over ice magic.",
+       "overall":1132,
+       "status":"No"
+    },
+    {  
+       "id":154,
+       "name":"Raditz",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/6362/158396-167455-raditz.jpg",
+       "strength":653,
+       "speed":705,
+       "description":"Raditz is a character from the manga/anime Dragonball Z. He is a Saiyan mercenary who travels with Vegeta and Nappa around the galaxy conquering worlds for Freeza. He is also Goku's older brother and Bardock's first born son.",
+       "overall":1358,
+       "status":"No"
+    },
+    {  
+       "id":155,
+       "name":"Ranfan",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732541-5087456631-latest",
+       "strength":766,
+       "speed":759,
+       "description":"A competitor in the 21st Martial Arts Tournment who uses the fact that she's a \"defenseless\" woman as a weapon. For example, she shrieks when someone is about to hit her, causing them to pause, and in that time, she'll deliver a crushing punch or kick.",
+       "overall":1525,
+       "status":"No"
+    },
+    {  
+       "id":156,
+       "name":"Recoome",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/1097701-recoome_2.jpg",
+       "strength":616,
+       "speed":705,
+       "description":"Recoome was the muscle of the Ginyu Force, second in power only to the squad captain.",
+       "overall":1321,
+       "status":"No"
+    },
+    {  
+       "id":157,
+       "name":"Salaga",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493865-godclasssalaga.png",
+       "strength":720,
+       "speed":669,
+       "description":"One of the Dragon Ball heroes designed after Kid Buu, Salaga is a rival to Kabra.",
+       "overall":1389,
+       "status":"No"
+    },
+    {  
+       "id":158,
+       "name":"Salza",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821923-thousar.jpg",
+       "strength":545,
+       "speed":539,
+       "description":"The commander of Coolers Armored Squadron.",
+       "overall":1084,
+       "status":"No"
+    },
+    {  
+       "id":159,
+       "name":"Sansho",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2821453-buffsansho.png",
+       "strength":621,
+       "speed":582,
+       "description":"Sansho is a henchmen of Garlic Jr.",
+       "overall":1203,
+       "status":"No"
+    },
+    {  
+       "id":160,
+       "name":"Senbei Norimaki",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1244987-senbei.jpg",
+       "strength":556,
+       "speed":557,
+       "description":"A scientist that lives in the Penguin Village. He has invented several ingenious things.",
+       "overall":1113,
+       "status":"No"
+    },
+    {  
+       "id":161,
+       "name":"Sergeant Metallic",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/100757/2135970-majormetallitronterminator.png",
+       "strength":536,
+       "speed":587,
+       "description":"Of all of Muscle Tower, Goku's second challenge - to get past Sergeant Metallic was by far the most difficult task. Since Metallic was a robot, he was very hard, and in all truth the only reason Goku won was because the major's batteries ran out of power.",
+       "overall":1123,
+       "status":"No"
+    },
+    {  
+       "id":162,
+       "name":"Shenlong",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/77/4314314-shenglong_by_genzoman-d3j349f.jpg",
+       "strength":587,
+       "speed":798,
+       "description":"Shenlong is a spiritual dragon from Chinese mythology",
+       "overall":1385,
+       "status":"No"
+    },
+    {  
+       "id":163,
+       "name":"Shisami",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4921263-shisami+-+v+jump+may+2015.jpg",
+       "strength":600,
+       "speed":746,
+       "description":"Member of Frieza's Army",
+       "overall":1346,
+       "status":"No"
+    },
+    {  
+       "id":164,
+       "name":"Shuu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5729154-0841202549-agent.jpg",
+       "strength":679,
+       "speed":686,
+       "description":"Works for emperor Pilaf together with Mai.",
+       "overall":1365,
+       "status":"No"
+    },
+    {  
+       "id":165,
+       "name":"Sorbet",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4859697-sorbet.png",
+       "strength":512,
+       "speed":680,
+       "description":"Member of Frieza's planet trade organization who would ressurect Frieza from death",
+       "overall":1192,
+       "status":"No"
+    },
+    {  
+       "id":166,
+       "name":"South Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/2189617-south_kai.png",
+       "strength":771,
+       "speed":737,
+       "description":"Lord of the Southern Worlds",
+       "overall":1508,
+       "status":"No"
+    },
+    {  
+       "id":167,
+       "name":"Southern Supreme Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5730737-9581633375-latest",
+       "strength":613,
+       "speed":563,
+       "description":"The South Supreme Kai was the ruler of the Southern Quadrant of Universe Seven and the most powerful of the Supreme Kais.",
+       "overall":1176,
+       "status":"No"
+    },
+    {  
+       "id":168,
+       "name":"Spopovich",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735898-1038023129-Spopo.jpg",
+       "strength":577,
+       "speed":535,
+       "description":"Spopovich is an evil warrior who used to be normal. He was possesed and killed by Babidi.",
+       "overall":1112,
+       "status":"No"
+    },
+    {  
+       "id":169,
+       "name":"Super Android 17",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5789976-super+17.jpg",
+       "strength":794,
+       "speed":791,
+       "description":"The fusion of Android 17 and Hell Fighter 17 designed by Dr. Gero and Dr. Myuu",
+       "overall":1585,
+       "status":"No"
+    },
+    {  
+       "id":170,
+       "name":"Super Shenron",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/5278697-super+shenron.jpg",
+       "strength":765,
+       "speed":727,
+       "description":"The massive dragon summoned from the Super Dragon Balls. He can grant any wish with no limitations.",
+       "overall":1492,
+       "status":"No"
+    },
+    {  
+       "id":171,
+       "name":"Supreme Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/5959/293386-78334-supreme-kai.jpg",
+       "strength":626,
+       "speed":746,
+       "description":"Supreme Kai is the supreme deity of the Dragonball universe",
+       "overall":1372,
+       "status":"No"
+    },
+    {  
+       "id":172,
+       "name":"Supreme Kai of Time",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5438488-supremekaioftime.jpg",
+       "strength":740,
+       "speed":724,
+       "description":"This supreme Kia rules over the flow of time.",
+       "overall":1464,
+       "status":"No"
+    },
+    {  
+       "id":173,
+       "name":"Tagoma",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4921241-tagoma+-+v+jump+april+2015.jpg",
+       "strength":745,
+       "speed":663,
+       "description":"Member of Frieza's Army under command of Sorbet",
+       "overall":1408,
+       "status":"No"
+    },
+    {  
+       "id":174,
+       "name":"Tao",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732623-2170663667-_d_d9.jpg",
+       "strength":740,
+       "speed":683,
+       "description":"Known as general or mercenary Tao he is a hired killer. He was defeated by Goku and then mechanized his body.",
+       "overall":1423,
+       "status":"No"
+    },
+    {  
+       "id":175,
+       "name":"Taro Soramame",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1238811-taro.jpg",
+       "strength":671,
+       "speed":756,
+       "description":"Taro Soramame is an older friend of Arale and Akane. He later becomes a cop after graduating high school.",
+       "overall":1427,
+       "status":"No"
+    },
+    {  
+       "id":176,
+       "name":"Tekka",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5492974-fusions_protagonist.png",
+       "strength":597,
+       "speed":775,
+       "description":"Best friend of Pinich, an earthling warrior and main character of the Dragon ball Fusions spin-off manga.",
+       "overall":1372,
+       "status":"No"
+    },
+    {  
+       "id":177,
+       "name":"Tien",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732779-3127427154--Tien.jpg",
+       "strength":602,
+       "speed":614,
+       "description":"Tien Shinhan was once an enemy of Goku in the Dragon Ball series, until he joined him to battle the two alien warriors that were coming to Earth for the Dragon Balls.",
+       "overall":1216,
+       "status":"No"
+    },
+    {  
+       "id":178,
+       "name":"Toppo",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/6044924-toppo2.png",
+       "strength":584,
+       "speed":584,
+       "description":"The leader of the Pride Troopers and a long standing servant of justice, Toppo is an eccentric hero who has a lot of strength to backup his talk.",
+       "overall":1168,
+       "status":"No"
+    },
+    {  
+       "id":179,
+       "name":"Tori-Bot",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493007-tori_bot_2.jpg",
+       "strength":683,
+       "speed":687,
+       "description":"A character in Dr Slump and many other Toriyama  works, Tori-Bot is often used to represent Akira Toriyama himself. He also appears in the Blue Dragon universe as a representative of Toriyama, though is named Toripo.",
+       "overall":1370,
+       "status":"No"
+    },
+    {  
+       "id":180,
+       "name":"Towa",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735951-7414000166-latest",
+       "strength":663,
+       "speed":676,
+       "description":"A sorceress of the demon realm and sister to Dabura, Towa is a scientist who created the ultimate fighting machine in her husband Mira.",
+       "overall":1339,
+       "status":"No"
+    },
+    {  
+       "id":181,
+       "name":"Trunks",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/1064926-untitled_1.png",
+       "strength":712,
+       "speed":641,
+       "description":"The half-Saiyan son of Vegeta and Bulma and best friend of Goku's son Goten.",
+       "overall":1353,
+       "status":"No"
+    },
+    {  
+       "id":182,
+       "name":"Tsumuri",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493874-superclasstsumuri.jpg",
+       "strength":669,
+       "speed":600,
+       "description":"The Namekian hero and one of the Dragon Ball heroes.",
+       "overall":1269,
+       "status":"No"
+    },
+    {  
+       "id":183,
+       "name":"Tsuru-sennin",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/39241/803724-535.jpg",
+       "strength":681,
+       "speed":703,
+       "description":"Tien's first Martial Arts teacher. He is known as the Crane Hermit.",
+       "overall":1384,
+       "status":"No"
+    },
+    {  
+       "id":184,
+       "name":"Tupper",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6158949-tupper.jpg",
+       "strength":554,
+       "speed":559,
+       "description":"Member of the Pride Troopers",
+       "overall":1113,
+       "status":"No"
+    },
+    {  
+       "id":185,
+       "name":"Turbo Norimaki",
+       "c_image":"https://static.comicvine.com/uploads/square_small/6/67622/1242158-turbonorimaki01.png",
+       "strength":695,
+       "speed":684,
+       "description":"Son of Senbei and Midori. He was given telekinetic powers.",
+       "overall":1379,
+       "status":"No"
+    },
+    {  
+       "id":186,
+       "name":"Turles",
+       "c_image":"https://static.comicvine.com/uploads/square_small/10/103617/2819297-turlestreeofmightk..png",
+       "strength":605,
+       "speed":723,
+       "description":"A Saiyan warrior turned Space pirate, Turles was created to show what Goku would be like if he were raised on Planet Vegeta. He is the antagonist of the DBZ Movie Tree of Might",
+       "overall":1328,
+       "status":"No"
+    },
+    {  
+       "id":187,
+       "name":"Turtle",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5813389-7787361325-latest",
+       "strength":696,
+       "speed":740,
+       "description":"Companion of Master Roshi that lives at Kame House",
+       "overall":1436,
+       "status":"No"
+    },
+    {  
+       "id":188,
+       "name":"Uub",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735725-1417249927-white.png",
+       "strength":690,
+       "speed":668,
+       "description":"Uub is the reincarnation of buu. Brought about by a last minute wish from Goku to the Kais, Uub is the most powerful human on the planet. The only human with the power to rival the saiyans, Uub has trained under Goku to one day replace him as defender of Earth.",
+       "overall":1358,
+       "status":"No"
+    },
+    {  
+       "id":189,
+       "name":"Vados",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4859704-champa+attendant.jpg",
+       "strength":605,
+       "speed":529,
+       "description":"Attendant of Champa the god of destruction. and Sister of Whis.",
+       "overall":1134,
+       "status":"No"
+    },
+    {  
+       "id":190,
+       "name":"Vegeks",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11131/111312232/5784765-xeno_vegeks_full.png",
+       "strength":719,
+       "speed":627,
+       "description":"The potara based fusion of Future Trunks and Vegeta.",
+       "overall":1346,
+       "status":"No"
+    },
+    {  
+       "id":191,
+       "name":"Vegeta",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11112/111122896/5192096-vegeta_fukkatsu_no_f_2_by_bardocksonic-d9ik5c3.png",
+       "strength":652,
+       "speed":661,
+       "description":"Vegeta was previously a villain and later an anti-hero from the DragonBall franchise. He has trained since a young age and has always had natural talents in martial arts and chi control. Vegeta is among the last surviving pure Saiyans from planet Vegeta. His obsession to beat Goku is one of the key parts to his character.",
+       "overall":1313,
+       "status":"No"
+    },
+    {  
+       "id":192,
+       "name":"Videl",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5826022-3206016898-movie.png",
+       "strength":667,
+       "speed":775,
+       "description":"She is the daughter of Hercule, the Martial Arts Champion of the World. Videl attends Orange Star High School with Gohan. Videl and Gohan later get married and have a daughter named Pan.",
+       "overall":1442,
+       "status":"No"
+    },
+    {  
+       "id":193,
+       "name":"Viola",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493879-dbhfsaiyanelite.jpg",
+       "strength":767,
+       "speed":735,
+       "description":"The female Saiyan elite and one of the Dragon Ball heroes.",
+       "overall":1502,
+       "status":"No"
+    },
+    {  
+       "id":194,
+       "name":"Vuon",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6158947-vuon.jpg",
+       "strength":578,
+       "speed":763,
+       "description":"Member of the Pride Troopers",
+       "overall":1341,
+       "status":"No"
+    },
+    {  
+       "id":195,
+       "name":"Wairu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493882-wairu.png",
+       "strength":578,
+       "speed":724,
+       "description":"The supreme kai berserker and a member of the Dragon Ball heroes.",
+       "overall":1302,
+       "status":"No"
+    },
+    {  
+       "id":196,
+       "name":"West Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5440686-westkai.jpg",
+       "strength":662,
+       "speed":545,
+       "description":"The western kai, his greatest student is Pikkon.",
+       "overall":1207,
+       "status":"No"
+    },
+    {  
+       "id":197,
+       "name":"Western Supreme Kai",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5730700-8097539716-ff0ff7.jpeg",
+       "strength":594,
+       "speed":678,
+       "description":"The West Supreme Kai was the ruler of the Western Quadrant of Universe 7.",
+       "overall":1272,
+       "status":"No"
+    },
+    {  
+       "id":198,
+       "name":"Whis",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4859692-whis.jpg",
+       "strength":563,
+       "speed":727,
+       "description":"Whis is the attendant and teacher of Beerus the God of Destruction. Brother to Vados.",
+       "overall":1290,
+       "status":"No"
+    },
+    {  
+       "id":199,
+       "name":"Yajirobe",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732837-8702688298-Yajir.png",
+       "strength":661,
+       "speed":773,
+       "description":"Yajirobe is a character from the manga/anime Dragonball and Dragonball Z. He isn't very strong or brave but is skilled with a katana and has come through in past situations.",
+       "overall":1434,
+       "status":"No"
+    },
+    {  
+       "id":200,
+       "name":"Yakon",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735889-2496439378-yakon.png",
+       "strength":508,
+       "speed":719,
+       "description":"From the planet Dark Star, Yakon is a light eating monster who lives in darkness. He is under the control of the wizard Babidi.",
+       "overall":1227,
+       "status":"No"
+    },
+    {  
+       "id":201,
+       "name":"Yamcha",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5732467-8001271270-50049.jpg",
+       "strength":766,
+       "speed":554,
+       "description":"Yamcha, the notorious desert bandit, is a fictional character from the manga Dragon Ball and the anime Dragon Ball, Dragon Ball Z.",
+       "overall":1320,
+       "status":"No"
+    },
+    {  
+       "id":202,
+       "name":"Yamu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/1/14431/5735899-7346117547-50893.png",
+       "strength":582,
+       "speed":616,
+       "description":"One of Bibidi`s henchmen and Spopovich`s partner.",
+       "overall":1198,
+       "status":"No"
+    },
+    {  
+       "id":203,
+       "name":"Zamasu",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11128/111288213/5441748-4066382450-Zamas.jpg",
+       "strength":745,
+       "speed":568,
+       "description":"A Kaio from Universe 10, Zamasu was a prodigy at martial arts and became the apprentice of Gowasu, Universe 10's Kaioshin. His ideology is that all mortals are inherently evil and must be eliminated from the universe. In Future Trunks' timeline, he is immortal and has teamed up with Goku Black, his past counterpart.",
+       "overall":1313,
+       "status":"No"
+    },
+    {  
+       "id":204,
+       "name":"Zarbon",
+       "c_image":"https://static.comicvine.com/uploads/square_small/0/3016/136158-18116-zarbon.jpg",
+       "strength":577,
+       "speed":795,
+       "description":"Zarbon is Frieza's strongest henchman besides the Ginyu Force",
+       "overall":1372,
+       "status":"No"
+    },
+    {  
+       "id":205,
+       "name":"Zen",
+       "c_image":"https://static.comicvine.com/uploads/square_small/11129/111296641/5493887-zen.png",
+       "strength":609,
+       "speed":627,
+       "description":"The supreme Kia hero and a member of the Dragon Ball heroes.",
+       "overall":1236,
+       "status":"No"
+    },
+    {  
+       "id":206,
+       "name":"Zoiray",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/6158953-zoiray.jpg",
+       "strength":588,
+       "speed":724,
+       "description":"Member of the Pride Troopers",
+       "overall":1312,
+       "status":"No"
+    },
+    {  
+       "id":207,
+       "name":"Zuno",
+       "c_image":"https://static.comicvine.com/uploads/square_small/3/38919/4968555-zunou+-+dragon+ball+super+ch+7.jpg",
+       "strength":781,
+       "speed":529,
+       "description":"Zuno is an omniscient being that trades knowledge of the universe for kisses",
+       "overall":1310,
+       "status":"No"
+    }
+     
+ ]
