@@ -53,7 +53,7 @@ class MyTeam extends Component{
                                   <h4 className="card-title">Description</h4>
                                     <p className="card-text">{hero.description.substring(0, 100)}</p>
                                     <span  >Strengh: <span className="label label-warning">{hero.strength}</span></span> 
-                                    <span href="#">Speed <span className="label label-info">{hero.speed} {hero.status} </span></span> 
+                                    <span href="#">Speed <span className="label label-info">{hero.speed}  </span></span> 
                                 </div>
                               </div>
                                 </li>

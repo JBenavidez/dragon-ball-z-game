@@ -18,6 +18,6 @@ $ npm start
 ![Alt text](src/assets/homepage.png "Home" )
 
 ### Result
-![Alt text](/images/color-palette.PNG "Color Palette
+![Alt text](src/assets/result.png "Home" )
 
  
